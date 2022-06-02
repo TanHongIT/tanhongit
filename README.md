@@ -1,4 +1,13 @@
-### Hi there 👋
+#  Hi, I’m Tan!
+
+## ✏️ My Blog
+
+I'm especially interested in sharing knowledge and love to hear from everyone, not only in technical but everything.
+
+<a href="https://tanhongit.net">Tanhongit.net</a>
+
+⚡ New blog: <a href="https://tanhongit.com">Tanhongit.com</a>
+
 
 <!--
 **TanHongIT/tanhongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
