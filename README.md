@@ -23,9 +23,9 @@
 
 I'm especially interested in sharing knowledge and love to hear from everyone, not only in technical but everything.
 
-<a href="https://tanhongit.net">Tanhongit.net</a>
+<a target="_blank" href="https://tanhongit.net">Tanhongit.net</a>
 
-⚡ New blog: <a href="https://tanhongit.com">Tanhongit.com</a>
+⚡ New blog: <a target="_blank" href="https://tanhongit.com">Tanhongit.com</a>
 
 
 <!--
