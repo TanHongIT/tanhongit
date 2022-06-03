@@ -1,5 +1,7 @@
 #  Hi, I’m Tan!
 
+I'm especially interested in sharing knowledge and love to hear from everyone, not only in technical but everything.
+
 ## 🛠 Tools & Technologies
 
 ![PHP](https://img.shields.io/badge/-PHP-001a33?style=flat&logo=php)&nbsp;
@@ -40,8 +42,6 @@
 ![Trello](https://img.shields.io/badge/-Trello-001a33?style=flat&logo=Trello)&nbsp;
 
 ## ✏️ My Blog
-
-I'm especially interested in sharing knowledge and love to hear from everyone, not only in technical but everything.
 
 <a target="_blank" href="https://tanhongit.net">Tanhongit.net</a>
 
