@@ -44,6 +44,12 @@ I'm especially interested in sharing knowledge and love to hear from everyone, n
 ![Jira](https://img.shields.io/badge/Jira-001a33?style=flat&logo=Jira&logoColor=0052CC)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-001a33?style=flat&logo=Trello&logoColor=0052CC)&nbsp;
 
+### Interested
+
+![Next.js](https://img.shields.io/badge/Next.js-001a33?style=flat&logo=Next.js)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-001a33?style=flat&logo=Node.js)&nbsp;
+![Python](https://img.shields.io/badge/Python-001a33?style=flat&logo=Python)&nbsp;
+
 ## ✏️ My Blog
 
 <a target="_blank" href="https://tanhongit.net">Tanhongit.net</a>
