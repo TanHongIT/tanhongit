@@ -56,7 +56,8 @@ I'm especially interested in sharing knowledge and love to hear from everyone, n
 
 ⚡ New blog: <a target="_blank" href="https://tanhongit.com">Tanhongit.com</a>
 
-
+![](https://i0.wp.com/s1.uphinh.org/2021/09/09/1a1d60ba032fca679a8bb71ebe5fa649.png)
+<a href="https://github.com/tanhongit"><img src="https://komarev.com/ghpvc/?username=tanhongit"></a>
 <!--
 **TanHongIT/tanhongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://simpleicons.org/
