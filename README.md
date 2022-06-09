@@ -53,9 +53,9 @@ I'm learning every day to become a better version of myself. I'm especially inte
 
 ## ✏️ My Blog
 
-<a target="_blank" href="https://tanhongit.net">Tanhongit.net</a>
+🌱 <a target="_blank" href="https://tanhongit.net">Tanhongit.net</a>
 
-⚡ New blog: <a target="_blank" href="https://tanhongit.com">Tanhongit.com</a>
+⚡ New personal blog: <a target="_blank" href="https://tanhongit.com">Tanhongit.com</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tanhongit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
