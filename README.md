@@ -53,6 +53,8 @@ I'm learning every day to become a better version of myself. I'm especially inte
 
 ## ✏️ My Blog
 
+I have created this website with the aim of sharing all knowledge and lessons that I have gone through and reviewing useful software for everyone.
+
 🌱 <a target="_blank" href="https://tanhongit.net">Tanhongit.net</a>
 
 ✨ New personal blog: <a target="_blank" href="https://tanhongit.com">Tanhongit.com</a>
