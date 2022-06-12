@@ -45,7 +45,7 @@ I'm learning every day to become a better version of myself. I'm especially inte
 ![Jira](https://img.shields.io/badge/Jira-001a33?style=flat&logo=Jira&logoColor=0052CC)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-001a33?style=flat&logo=Trello&logoColor=0052CC)&nbsp;
 
-### Interested
+### ✨ Interested
 
 ![Next.js](https://img.shields.io/badge/Next.js-001a33?style=flat&logo=Next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-001a33?style=flat&logo=Node.js)&nbsp;
@@ -55,12 +55,24 @@ I'm learning every day to become a better version of myself. I'm especially inte
 
 🌱 <a target="_blank" href="https://tanhongit.net">Tanhongit.net</a>
 
-⚡ New personal blog: <a target="_blank" href="https://tanhongit.com">Tanhongit.com</a>
+✨ New personal blog: <a target="_blank" href="https://tanhongit.com">Tanhongit.com</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanhongit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## ***📊 GitHub Profile Stats***
 
-![](https://i0.wp.com/s1.uphinh.org/2021/09/09/1a1d60ba032fca679a8bb71ebe5fa649.png)
-<a href="https://github.com/tanhongit"><img src="https://komarev.com/ghpvc/?username=tanhongit"></a>
+<p align="center">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanhongit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+</p>
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanhongit&custom_title=tanhongit's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <br>
+  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=onedark" />
+</details>
+
+<p align="center">
+  <a href="https://github.com/tanhongit"><img src="https://komarev.com/ghpvc/?username=tanhongit"></a>
+</p>
 <!--
 **TanHongIT/tanhongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://simpleicons.org/
