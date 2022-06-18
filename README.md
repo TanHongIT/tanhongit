@@ -21,6 +21,7 @@ I'm learning every day to become a better version of myself. I'm especially inte
 
 <details open>
     <summary><b>Backend</b></summary>
+    <p></p>
     <ul>
         <li><img alt="php" src="https://img.shields.io/badge/-PHP-001a33?style=flat&logo=php"/></li>
         <ul>
@@ -49,6 +50,19 @@ I'm learning every day to become a better version of myself. I'm especially inte
     </ul>
 </details>
 
+<hr>
+
+<details open>
+    <summary><b>Others</b></summary>
+    <p></p>
+    <ul>
+        <li>IDE: <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-001a33?style=flat&logo=phpstorm"/>&nbsp;
+            <img alt="Visual" src="https://img.shields.io/badge/Visual%20Studio%20Code-001a33?style=flat&logo=visual-studio-code&logoColor=007ACC"/>&nbsp;
+            <img alt="Atom" src="https://img.shields.io/badge/Atom-001a33?style=flat&logo=Atom&logoColor=007ACC"/>
+        </li>
+    </ul>
+</details>
+
 ![Docker](https://img.shields.io/badge/Docker-001a33?style=flat&logo=Docker)&nbsp;
 ![Vagrant](https://img.shields.io/badge/Vagrant-001a33?style=flat&logo=Vagrant&logoColor=1868F2)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-001a33?style=flat&logo=Apache&logoColor=D22128)&nbsp;
@@ -63,9 +77,6 @@ I'm learning every day to become a better version of myself. I'm especially inte
 ![GitHub](https://img.shields.io/badge/GitHub-001a33?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-001a33?style=flat&logo=gitlab)&nbsp;
 <br>
-![PhpStorm](https://img.shields.io/badge/PhpStorm-001a33?style=flat&logo=phpstorm)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-001a33?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Atom](https://img.shields.io/badge/Atom-001a33?style=flat&logo=Atom&logoColor=007ACC)&nbsp;
 ![Nano](https://img.shields.io/badge/Nano-001a33?style=flat&logo=Nano)&nbsp;
 ![Vim](https://img.shields.io/badge/Vim-001a33?style=flat&logo=Vim&logoColor=019733)&nbsp;
 <br>
@@ -84,9 +95,9 @@ I'm learning every day to become a better version of myself. I'm especially inte
 
 I have created this website with the aim of sharing all knowledge and lessons that I have gone through and reviewing useful software for everyone.
 
-🌱 <a target="_blank" href="https://tanhongit.net">Tanhongit.net</a>
+🌱 <a title="tanhongit" target="_blank" href="https://tanhongit.net">Tanhongit.net</a>
 
-✨ New personal blog: <a target="_blank" href="https://tanhongit.com">Tanhongit.com</a>
+✨ New personal blog: <a title="tanhongit" target="_blank" href="https://tanhongit.com">Tanhongit.com</a>
 
 ## ***📊 GitHub Profile Stats***
 
@@ -101,7 +112,7 @@ I have created this website with the aim of sharing all knowledge and lessons th
   <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=onedark" />
 
   <p align="center">
-    <a href="https://github.com/tanhongit"><img src="https://komarev.com/ghpvc/?username=tanhongit"></a>
+    <a title="tanhongit" href="https://github.com/tanhongit"><img src="https://komarev.com/ghpvc/?username=tanhongit"></a>
   </p>
 </details>
 <!--
