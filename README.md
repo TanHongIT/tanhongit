@@ -5,21 +5,50 @@ I'm learning every day to become a better version of myself. I'm especially inte
 
 ## 🛠 Tools & Technologies
 
-![PHP](https://img.shields.io/badge/-PHP-001a33?style=flat&logo=php)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-001a33?style=flat&logo=MySQL)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-001a33?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-001a33?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-001a33?style=flat&logo=javascript)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-001a33?style=flat&logo=jquery)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-001a33?style=flat&logo=bootstrap&logoColor=563D7C)
-![Vue.js](https://img.shields.io/badge/-Vue.js-001a33?style=flat&logo=Vue.js)&nbsp;
-<br>
-![Laravel](https://img.shields.io/badge/Laravel-001a33?logo=Laravel)&nbsp;
-![Yii](https://img.shields.io/badge/Yii-001a33?logo=Yii)&nbsp;
-![WordPress](https://img.shields.io/badge/WordPress-001a33?logo=wordpress)&nbsp;
-![Joomla](https://img.shields.io/badge/Joomla-001a33?logo=Joomla)&nbsp;
-![Blogger](https://img.shields.io/badge/Blogger-001a33?logo=Blogger)&nbsp;
-<br>
+<details open>
+    <summary><b>Frontend</b></summary>
+    <p></p>
+    <img alt="Html" src="https://img.shields.io/badge/-HTML-001a33?style=flat&logo=HTML5"/>&nbsp;
+    <img alt="Css" src="https://img.shields.io/badge/-CSS-001a33?style=flat&logo=CSS3&logoColor=1572B6"/>&nbsp;
+    <img alt="Js" src="https://img.shields.io/badge/-JavaScript-001a33?style=flat&logo=javascript"/>&nbsp;
+    <img alt="JQuery" src="https://img.shields.io/badge/-jQuery-001a33?style=flat&logo=jquery"/>&nbsp;
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-001a33?style=flat&logo=bootstrap&logoColor=563D7C"/>&nbsp;
+    <br>
+    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-001a33?style=flat&logo=Vue.js"/>&nbsp;
+</details>
+
+<hr>
+
+<details open>
+    <summary><b>Backend</b></summary>
+    <ul>
+        <li><img alt="php" src="https://img.shields.io/badge/-PHP-001a33?style=flat&logo=php"/></li>
+        <ul>
+            <li>
+                Frameworks: <img alt="Laravel" src="https://img.shields.io/badge/Laravel-001a33?logo=Laravel"/>&nbsp; <img alt="Yii" src="https://img.shields.io/badge/Yii-001a33?logo=Yii"/>
+            </li>
+            <li>
+                Cms: <img alt="WordPress" src="https://img.shields.io/badge/WordPress-001a33?logo=wordpress"/>&nbsp;
+                <img alt="Joomla" src="https://img.shields.io/badge/Joomla-001a33?logo=Joomla"/>
+            </li>
+        </ul>
+    </ul>
+    <ul>
+        <li><img alt="Blogspot" src="https://img.shields.io/badge/Blogspot-001a33?logo=Blogger"/></li>
+    </ul>
+    <ul>
+        <li>Databases
+        <ul>
+            <li>
+                <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-001a33?style=flat&logo=MySQL"/>
+                &nbsp;
+                <img alt="MySQL" src="https://img.shields.io/badge/MariaDB-001a33?style=flat&logo=MariaDB"/>
+            </li>
+        </ul>
+        </li>
+    </ul>
+</details>
+
 ![Docker](https://img.shields.io/badge/Docker-001a33?style=flat&logo=Docker)&nbsp;
 ![Vagrant](https://img.shields.io/badge/Vagrant-001a33?style=flat&logo=Vagrant&logoColor=1868F2)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-001a33?style=flat&logo=Apache&logoColor=D22128)&nbsp;
@@ -70,11 +99,11 @@ I have created this website with the aim of sharing all knowledge and lessons th
   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanhongit&custom_title=tanhongit's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   <br>
   <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=onedark" />
-</details>
 
-<p align="center">
-  <a href="https://github.com/tanhongit"><img src="https://komarev.com/ghpvc/?username=tanhongit"></a>
-</p>
+  <p align="center">
+    <a href="https://github.com/tanhongit"><img src="https://komarev.com/ghpvc/?username=tanhongit"></a>
+  </p>
+</details>
 <!--
 **TanHongIT/tanhongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://simpleicons.org/
