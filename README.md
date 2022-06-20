@@ -94,19 +94,23 @@ I'm learning every day to become a better version of myself. I'm especially inte
 ![GitLab](https://img.shields.io/badge/GitLab-001a33?style=flat&logo=gitlab)&nbsp;
 <br>
 
-### ✨ Interested
+### ✨ Interested - Learning Plans
 
 ![Next.js](https://img.shields.io/badge/Next.js-001a33?style=flat&logo=Next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-001a33?style=flat&logo=Node.js)&nbsp;
 ![Python](https://img.shields.io/badge/Python-001a33?style=flat&logo=Python)&nbsp;
 
-## ✏️ My Blog
+## ☎ Contact me
+
+### ✏️ My Blog
 
 I have created this website with the aim of sharing all knowledge and lessons that I have gone through and reviewing useful software for everyone.
 
 🌱 <a title="tanhongit" target="_blank" href="https://tanhongit.net">Tanhongit.net</a>
 
 ✨ New personal blog: <a title="tanhongit" target="_blank" href="https://tanhongit.com">Tanhongit.com</a>
+<br>
+And [see more social](https://tanhong.bio.link/) me.
 
 ## ***📊 GitHub Profile Stats***
 
@@ -117,13 +121,14 @@ I have created this website with the aim of sharing all knowledge and lessons th
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanhongit&custom_title=tanhongit's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  <br>
+  <br>---
   <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=onedark" />
 
   <p align="center">
     <a title="tanhongit" href="https://github.com/tanhongit"><img src="https://komarev.com/ghpvc/?username=tanhongit"></a>
   </p>
 </details>
+
 <!--
 **TanHongIT/tanhongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://simpleicons.org/
