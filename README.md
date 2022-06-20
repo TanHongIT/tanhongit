@@ -73,6 +73,11 @@ I'm learning every day to become a better version of myself. I'm especially inte
                 Gamming <img alt="Windows" src="https://img.shields.io/badge/Windows-001a33?logo=Windows"/>&nbsp;
             </li>
         </ul>
+        <li>Work management tool:  <img alt="Notion" src="https://img.shields.io/badge/Notion-001a33?style=flat&logo=Notion"/>&nbsp;
+            <img alt="Slack" src="https://img.shields.io/badge/Slack-001a33?style=flat&logo=Slack&logoColor=4A154B"/>&nbsp;
+            <img alt="Jira" src="https://img.shields.io/badge/Jira-001a33?style=flat&logo=Jira&logoColor=0052CC"/>&nbsp;
+            <img alt="Trello" src="https://img.shields.io/badge/Trello-001a33?style=flat&logo=Trello&logoColor=0052CC"/>
+        </li>
     </ul>
 </details>
 
@@ -88,10 +93,6 @@ I'm learning every day to become a better version of myself. I'm especially inte
 ![GitHub](https://img.shields.io/badge/GitHub-001a33?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-001a33?style=flat&logo=gitlab)&nbsp;
 <br>
-![Notion](https://img.shields.io/badge/Notion-001a33?style=flat&logo=Notion)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-001a33?style=flat&logo=Slack&logoColor=4A154B)&nbsp;
-![Jira](https://img.shields.io/badge/Jira-001a33?style=flat&logo=Jira&logoColor=0052CC)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-001a33?style=flat&logo=Trello&logoColor=0052CC)&nbsp;
 
 ### ✨ Interested
 
