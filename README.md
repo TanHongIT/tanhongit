@@ -57,9 +57,22 @@ I'm learning every day to become a better version of myself. I'm especially inte
     <p></p>
     <ul>
         <li>IDE: <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-001a33?style=flat&logo=phpstorm"/>&nbsp;
-            <img alt="Visual" src="https://img.shields.io/badge/Visual%20Studio%20Code-001a33?style=flat&logo=visual-studio-code&logoColor=007ACC"/>&nbsp;
-            <img alt="Atom" src="https://img.shields.io/badge/Atom-001a33?style=flat&logo=Atom&logoColor=007ACC"/>
+            <img alt="Visual" src="https://img.shields.io/badge/IntelliJ-001a33?style=flat&logo=IntelliJ-IDEA&logoColor=007ACC"/>
         </li>
+        <li>Text Editor: <img alt="Visual" src="https://img.shields.io/badge/Visual%20Studio%20Code-001a33?style=flat&logo=visual-studio-code&logoColor=007ACC"/>&nbsp;
+            <img alt="Atom" src="https://img.shields.io/badge/Atom-001a33?style=flat&logo=Atom&logoColor=007ACC"/>&nbsp;
+            <img alt="Nano" src="https://img.shields.io/badge/Nano-001a33?style=flat&logo=Nano"/>&nbsp;
+            <img alt="Vim" src="https://img.shields.io/badge/Vim-001a33?style=flat&logo=Vim&logoColor=019733"/>
+        </li>
+        <li>OS:</li>
+        <ul>
+            <li>
+                Working <img alt="Linux" src="https://img.shields.io/badge/Linux-001a33?style=flat&logo=linux"/>&nbsp; <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-001a33?style=flat&logo=Ubuntu"/>
+            </li>
+            <li>
+                Gamming <img alt="Windows" src="https://img.shields.io/badge/Windows-001a33?logo=Windows"/>&nbsp;
+            </li>
+        </ul>
     </ul>
 </details>
 
@@ -68,17 +81,12 @@ I'm learning every day to become a better version of myself. I'm especially inte
 ![Apache](https://img.shields.io/badge/Apache-001a33?style=flat&logo=Apache&logoColor=D22128)&nbsp;
 ![NGINX](https://img.shields.io/badge/NGINX-001a33?style=flat&logo=NGINX&logoColor=009639)&nbsp;
 ![XAMPP](https://img.shields.io/badge/XAMPP-001a33?style=flat&logo=xampp)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-001a33?style=flat&logo=linux)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-001a33?style=flat&logo=Ubuntu)&nbsp;
 ![cPanel](https://img.shields.io/badge/cPanel-001a33?style=flat&logo=cPanel)&nbsp;
 <br>
 ![Git](https://img.shields.io/badge/Git-001a33?style=flat&logo=git)&nbsp;
 ![Composer](https://img.shields.io/badge/Composer-001a33?style=flat&logo=composer)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-001a33?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-001a33?style=flat&logo=gitlab)&nbsp;
-<br>
-![Nano](https://img.shields.io/badge/Nano-001a33?style=flat&logo=Nano)&nbsp;
-![Vim](https://img.shields.io/badge/Vim-001a33?style=flat&logo=Vim&logoColor=019733)&nbsp;
 <br>
 ![Notion](https://img.shields.io/badge/Notion-001a33?style=flat&logo=Notion)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-001a33?style=flat&logo=Slack&logoColor=4A154B)&nbsp;
