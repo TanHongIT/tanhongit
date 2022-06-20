@@ -5,7 +5,7 @@ I'm learning every day to become a better version of myself. I'm especially inte
 
 ## 🛠 Tools & Technologies
 
-<details open>
+<details>
     <summary><b>Frontend</b></summary>
     <p></p>
     <img alt="Html" src="https://img.shields.io/badge/-HTML-001a33?style=flat&logo=HTML5"/>&nbsp;
@@ -19,7 +19,7 @@ I'm learning every day to become a better version of myself. I'm especially inte
 
 <hr>
 
-<details open>
+<details>
     <summary><b>Backend</b></summary>
     <p></p>
     <ul>
@@ -52,7 +52,7 @@ I'm learning every day to become a better version of myself. I'm especially inte
 
 <hr>
 
-<details open>
+<details>
     <summary><b>Others</b></summary>
     <p></p>
     <ul>
