@@ -4,7 +4,11 @@ I'm a web developer and a blog enthusiast, sharing knowledge with others.
 I'm learning every day to become a better version of myself. I'm especially interested in sharing knowledge and love to hear from everyone, not only in technical but everything.
 
 ## 🛠 Tools & Technologies
-
+<style>
+    details img {
+        margin-bottom: -5px;
+    }
+</style>
 <details>
     <summary><b>Frontend</b></summary>
     <p></p>
@@ -121,7 +125,7 @@ And [see more social](https://tanhong.bio.link/) me.
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanhongit&custom_title=tanhongit's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  <br>---
+  <br>
   <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=onedark" />
 
   <p align="center">
