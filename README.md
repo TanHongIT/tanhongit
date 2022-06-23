@@ -108,8 +108,8 @@ I have created this website with the aim of sharing all knowledge and lessons th
 🌱 <a title="tanhongit" target="_blank" href="https://tanhongit.net">Tanhongit.net</a>
 
 ✨ New personal blog: <a title="tanhongit" target="_blank" href="https://tanhongit.com">Tanhongit.com</a>
-<br>
-And [see more social](https://tanhong.bio.link/) me.
+<br><hr>
+🌐 And **[see all social](https://tanhong.bio.link/)** of me.
 
 ## ***📊 GitHub Profile Stats***
 
