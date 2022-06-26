@@ -119,9 +119,17 @@ I have created this website with the aim of sharing all knowledge and lessons th
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
+    
+  ### Activity Graph
   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanhongit&custom_title=tanhongit's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   <br>
+    
+  ### Trophy Statistics
   <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=onedark" />
+  <br>
+    
+  ### Streak Statistics
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tanhongit" data-url="https://github.com/DenverCoder1/github-readme-streak-stats"/>
 
   <p align="center">
     <a title="tanhongit" href="https://github.com/tanhongit"><img src="https://komarev.com/ghpvc/?username=tanhongit"></a>
