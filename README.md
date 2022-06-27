@@ -78,20 +78,15 @@ I'm learning every day to become a better version of myself. I'm especially inte
             <img alt="Trello" src="https://img.shields.io/badge/Trello-001a33?style=flat&logo=Trello&logoColor=0052CC"/>
         </li>
     </ul>
+    <img alt="Slack" src="https://img.shields.io/badge/Docker-001a33?style=flat&logo=Docker"/>&nbsp;
+    <img alt="Jira" src="https://img.shields.io/badge/Vagrant-001a33?style=flat&logo=Vagrant&logoColor=1868F2"/>&nbsp;
+    <img alt="Slack" src="https://img.shields.io/badge/Apache-001a33?style=flat&logo=Apache&logoColor=D22128"/>&nbsp;
+    <img alt="Jira" src="https://img.shields.io/badge/NGINX-001a33?style=flat&logo=NGINX&logoColor=009639"/>&nbsp;<img alt="Slack" src="https://img.shields.io/badge/XAMPP-001a33?style=flat&logo=xampp"/>&nbsp;
+    <img alt="Jira" src="https://img.shields.io/badge/cPanel-001a33?style=flat&logo=cPanel"/>&nbsp;
+    <br>
+    <img alt="Jira" src="https://img.shields.io/badge/Git-001a33?style=flat&logo=git"/>&nbsp;<img alt="Slack" src="https://img.shields.io/badge/Composer-001a33?style=flat&logo=composer"/>&nbsp;
+    <img alt="Jira" src="https://img.shields.io/badge/GitHub-001a33?style=flat&logo=github"/>&nbsp;<img alt="Jira" src="https://img.shields.io/badge/GitLab-001a33?style=flat&logo=gitlab"/>&nbsp;
 </details>
-
-![Docker](https://img.shields.io/badge/Docker-001a33?style=flat&logo=Docker)&nbsp;
-![Vagrant](https://img.shields.io/badge/Vagrant-001a33?style=flat&logo=Vagrant&logoColor=1868F2)&nbsp;
-![Apache](https://img.shields.io/badge/Apache-001a33?style=flat&logo=Apache&logoColor=D22128)&nbsp;
-![NGINX](https://img.shields.io/badge/NGINX-001a33?style=flat&logo=NGINX&logoColor=009639)&nbsp;
-![XAMPP](https://img.shields.io/badge/XAMPP-001a33?style=flat&logo=xampp)&nbsp;
-![cPanel](https://img.shields.io/badge/cPanel-001a33?style=flat&logo=cPanel)&nbsp;
-<br>
-![Git](https://img.shields.io/badge/Git-001a33?style=flat&logo=git)&nbsp;
-![Composer](https://img.shields.io/badge/Composer-001a33?style=flat&logo=composer)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-001a33?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/GitLab-001a33?style=flat&logo=gitlab)&nbsp;
-<br>
 
 ### ✨ Interested - Learning Plans
 
