@@ -4,6 +4,9 @@ I'm a web developer and a blog enthusiast, sharing knowledge with others.
 I'm learning every day to become a better version of myself. I'm especially interested in sharing knowledge and love to hear from everyone, not only in technical but everything.
 
 ## 🛠 Tools & Technologies
+
+_(Click to scroll down)_
+
 <details>
     <summary><b>Frontend</b></summary>
     <p></p>
@@ -113,7 +116,7 @@ I have created this website with the aim of sharing all knowledge and lessons th
 </p>
 
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
+  <summary>⚡ Recent GitHub Activity <i>(Click to scroll down)</i></summary>
     
   ### Activity Graph
   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanhongit&custom_title=tanhongit's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
@@ -125,7 +128,7 @@ I have created this website with the aim of sharing all knowledge and lessons th
     
   ### Streak Statistics
   <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tanhongit" data-url="https://github.com/DenverCoder1/github-readme-streak-stats"/>
-
+  <br>
   <p align="center">
     <a title="tanhongit" href="https://github.com/tanhongit"><img src="https://komarev.com/ghpvc/?username=tanhongit"></a>
   </p>
