@@ -83,7 +83,6 @@ _(Please click to scroll down)_
             </li>
         </ul>
     </ul>
-    <br>
 </details>
 
 ### ✨ Interested - Learning Plans
