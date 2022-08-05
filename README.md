@@ -5,7 +5,7 @@ I'm learning every day to become a better version of myself. I'm especially inte
 
 ## 🛠 Tools & Technologies
 
-_(Click to scroll down)_
+_(Please click to scroll down)_
 
 <details>
     <summary><b>Frontend</b></summary>
@@ -105,9 +105,9 @@ I have created this website with the aim of sharing all knowledge and lessons th
 
 🌱 <a title="tanhongit" target="_blank" href="https://tanhongit.net">Tanhongit.net</a>
 
-✨ New personal blog: <a title="tanhongit" target="_blank" href="https://tanhongit.com">Tanhongit.com</a>
+🔭 New personal blog: <a title="tanhongit" target="_blank" href="https://tanhongit.com">Tanhongit.com</a>
 <br><hr>
-🌐 And **[see all social](https://tanhong.bio.link/)** of me.
+🌐 And **[see all social 💬](https://tanhong.bio.link/)** of me.
 
 ## ***📊 GitHub Profile Stats***
 
@@ -116,7 +116,7 @@ I have created this website with the aim of sharing all knowledge and lessons th
 </p>
 
 <details>
-  <summary>⚡ Recent GitHub Activity <i>(Click to scroll down)</i></summary>
+  <summary>⚡ Recent GitHub Activity <i>(Please click to scroll down)</i></summary>
     
   ### Activity Graph
   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanhongit&custom_title=tanhongit's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
