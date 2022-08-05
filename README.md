@@ -10,13 +10,19 @@ _(Please click to scroll down)_
 <details>
     <summary><b>Frontend</b></summary>
     <p></p>
-    <img alt="Html" src="https://img.shields.io/badge/-HTML-001a33?style=flat&logo=HTML5"/>&nbsp;
-    <img alt="Css" src="https://img.shields.io/badge/-CSS-001a33?style=flat&logo=CSS3&logoColor=1572B6"/>&nbsp;
-    <img alt="Js" src="https://img.shields.io/badge/-JavaScript-001a33?style=flat&logo=javascript"/>&nbsp;
-    <img alt="JQuery" src="https://img.shields.io/badge/-jQuery-001a33?style=flat&logo=jquery"/>&nbsp;
-    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-001a33?style=flat&logo=bootstrap&logoColor=563D7C"/>&nbsp;
-    <br>
-    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-001a33?style=flat&logo=Vue.js"/>&nbsp;
+    <ul>
+        <li>HTML, CSS(Bootstrap)</li>
+    </ul>
+    <ul>
+        <li>JavaScript</li>
+        <ul>
+            <li>Jquery</li>
+            <li>VueJs</li>
+        </ul>
+    </ul>
+    <ul>
+        <li>I have a good time with Blogger(Blogspot) when I'm learning at hi school.</li>
+    </ul>
 </details>
 
 <hr>
@@ -25,27 +31,21 @@ _(Please click to scroll down)_
     <summary><b>Backend</b></summary>
     <p></p>
     <ul>
-        <li><img alt="php" src="https://img.shields.io/badge/-PHP-001a33?style=flat&logo=php"/></li>
+        <li>PHP</li>
         <ul>
             <li>
-                Frameworks: <img alt="Laravel" src="https://img.shields.io/badge/Laravel-001a33?logo=Laravel"/>&nbsp; <img alt="Yii" src="https://img.shields.io/badge/Yii-001a33?logo=Yii"/>
+                Frameworks: Laravel, Yii
             </li>
             <li>
-                Cms: <img alt="WordPress" src="https://img.shields.io/badge/WordPress-001a33?logo=wordpress"/>&nbsp;
-                <img alt="Joomla" src="https://img.shields.io/badge/Joomla-001a33?logo=Joomla"/>
+                Cms: Wordpress, Joomla
             </li>
         </ul>
-    </ul>
-    <ul>
-        <li><img alt="Blogspot" src="https://img.shields.io/badge/Blogspot-001a33?logo=Blogger"/></li>
     </ul>
     <ul>
         <li>Databases
         <ul>
             <li>
-                <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-001a33?style=flat&logo=MySQL"/>
-                &nbsp;
-                <img alt="MySQL" src="https://img.shields.io/badge/MariaDB-001a33?style=flat&logo=MariaDB"/>
+                MySQL, MariaDB
             </li>
         </ul>
         </li>
@@ -58,37 +58,32 @@ _(Please click to scroll down)_
     <summary><b>Others</b></summary>
     <p></p>
     <ul>
-        <li>IDE: <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-001a33?style=flat&logo=phpstorm"/>&nbsp;
-            <img alt="Visual" src="https://img.shields.io/badge/IntelliJ-001a33?style=flat&logo=IntelliJ-IDEA&logoColor=007ACC"/>
-        </li>
-        <li>Text Editor: <img alt="Visual" src="https://img.shields.io/badge/Visual%20Studio%20Code-001a33?style=flat&logo=visual-studio-code&logoColor=007ACC"/>&nbsp;
-            <img alt="Atom" src="https://img.shields.io/badge/Atom-001a33?style=flat&logo=Atom&logoColor=007ACC"/>&nbsp;
-            <img alt="Nano" src="https://img.shields.io/badge/Nano-001a33?style=flat&logo=Nano"/>&nbsp;
-            <img alt="Vim" src="https://img.shields.io/badge/Vim-001a33?style=flat&logo=Vim&logoColor=019733"/>
-        </li>
+        <li>IDE: PhpStorm, IntelliJ</li>
+        <li>Text Editor: Visual Studio Code, Atom, Nano, Vim</li>
         <li>OS:</li>
         <ul>
             <li>
-                Working <img alt="Linux" src="https://img.shields.io/badge/Linux-001a33?style=flat&logo=linux"/>&nbsp; <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-001a33?style=flat&logo=Ubuntu"/>
+                Working: Linux - Ubuntu
             </li>
             <li>
-                Gamming <img alt="Windows" src="https://img.shields.io/badge/Windows-001a33?logo=Windows"/>&nbsp;
+                Gamming: Windows
             </li>
         </ul>
-        <li>Work management tool:  <img alt="Notion" src="https://img.shields.io/badge/Notion-001a33?style=flat&logo=Notion"/>&nbsp;
-            <img alt="Slack" src="https://img.shields.io/badge/Slack-001a33?style=flat&logo=Slack&logoColor=4A154B"/>&nbsp;
-            <img alt="Jira" src="https://img.shields.io/badge/Jira-001a33?style=flat&logo=Jira&logoColor=0052CC"/>&nbsp;
-            <img alt="Trello" src="https://img.shields.io/badge/Trello-001a33?style=flat&logo=Trello&logoColor=0052CC"/>
-        </li>
+        <li>Work management tools: Notion, Slack, Jira, Trello</li>
+        <li>Tools:</li>
+        <ul>
+            <li>
+                Docker, Vagrant, Homestead, cPanel, XAMPP
+            </li>
+            <li>
+                Apache, NGINX
+            </li>
+            <li>
+                Git/Github, Gitlab, Composer
+            </li>
+        </ul>
     </ul>
-    <img alt="Slack" src="https://img.shields.io/badge/Docker-001a33?style=flat&logo=Docker"/>&nbsp;
-    <img alt="Jira" src="https://img.shields.io/badge/Vagrant-001a33?style=flat&logo=Vagrant&logoColor=1868F2"/>&nbsp;
-    <img alt="Slack" src="https://img.shields.io/badge/Apache-001a33?style=flat&logo=Apache&logoColor=D22128"/>&nbsp;
-    <img alt="Jira" src="https://img.shields.io/badge/NGINX-001a33?style=flat&logo=NGINX&logoColor=009639"/>&nbsp;<img alt="Slack" src="https://img.shields.io/badge/XAMPP-001a33?style=flat&logo=xampp"/>&nbsp;
-    <img alt="Jira" src="https://img.shields.io/badge/cPanel-001a33?style=flat&logo=cPanel"/>&nbsp;
     <br>
-    <img alt="Jira" src="https://img.shields.io/badge/Git-001a33?style=flat&logo=git"/>&nbsp;<img alt="Slack" src="https://img.shields.io/badge/Composer-001a33?style=flat&logo=composer"/>&nbsp;
-    <img alt="Jira" src="https://img.shields.io/badge/GitHub-001a33?style=flat&logo=github"/>&nbsp;<img alt="Jira" src="https://img.shields.io/badge/GitLab-001a33?style=flat&logo=gitlab"/>&nbsp;
 </details>
 
 ### ✨ Interested - Learning Plans
