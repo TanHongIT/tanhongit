@@ -47,6 +47,8 @@ _(Please click to scroll down)_
             <li>
                 MySQL, MariaDB
             </li>
+            <li>Redis
+            </li>
         </ul>
         </li>
     </ul>
@@ -73,7 +75,7 @@ _(Please click to scroll down)_
         <li>Tools:</li>
         <ul>
             <li>
-                Docker, Vagrant, Homestead, cPanel, XAMPP
+                Docker, Vagrant, Homestead, cPanel, XAMPP, WAMP
             </li>
             <li>
                 Apache, NGINX
