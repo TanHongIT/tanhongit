@@ -11,7 +11,11 @@ _(Please click to scroll down)_
     <summary><b>Frontend</b></summary>
     <p></p>
     <ul>
-        <li>HTML, CSS(Bootstrap)</li>
+        <li>HTML, CSS</li>
+        <ul>
+            <li>SASS/LESS</li>
+            <li>Bootstrap, Tailwind</li>
+        </ul>
     </ul>
     <ul>
         <li>JavaScript</li>
@@ -135,14 +139,4 @@ I have created this website with the aim of sharing all knowledge and lessons th
 **TanHongIT/tanhongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://simpleicons.org/
 https://gitmee.netlify.app/
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
