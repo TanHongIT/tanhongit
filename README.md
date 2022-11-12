@@ -13,7 +13,7 @@ _(Please click to scroll down)_
     <ul>
         <li>HTML, CSS</li>
         <ul>
-            <li>SASS/LESS</li>
+            <li>SCSS/SASS, LESS</li>
             <li>Bootstrap, Tailwind</li>
         </ul>
     </ul>
