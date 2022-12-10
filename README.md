@@ -1,6 +1,6 @@
 ###  Hi, I’m Tan!
 
-I'm a web developer and a blog enthusiast, sharing knowledge with others.
+I'm a Full-stack developer and a blog enthusiast, sharing knowledge with others.
 I'm learning every day to become a better version of myself. I'm especially interested in sharing knowledge and love to hear from everyone, not only in technical but everything.
 
 ## 🛠 Tools & Technologies
@@ -119,7 +119,7 @@ I have created this website with the aim of sharing all knowledge and lessons th
   <summary>⚡ Recent GitHub Activity <i>(Please click to scroll down)</i></summary>
     
   ### Activity Graph
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanhongit&custom_title=tanhongit's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tanhongit&custom_title=tanhongit's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   <br>
     
   ### Streak Statistics
