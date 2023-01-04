@@ -103,12 +103,12 @@ _(Please click to scroll down)_
 
 I have created this website with the aim of sharing all knowledge and lessons that I have gone through and reviewing useful software for everyone.
 
-My primary blog: <img height="18px" src="https://tanhongit.com/storage/2020/04/favicon-tanhongit.png"/> <a title="tanhongit" target="_blank" href="https://tanhongit.com">Tanhongit.com</a>
+My primary blog: <a title="tanhongit" target="_blank" href="https://tanhongit.com"><img height="18px" src="https://tanhongit.com/storage/2020/04/favicon-tanhongit.png"/> Tanhongit.com</a>
 
 (🔭 Old blog: <a title="tanhongit" target="_blank" href="https://tanhongit.net">Tanhongit.net</a>)
 
 <br>
-🌐 Please **[see all my social at here 💬](https://tanhong.bio.link/)**.
+🌐 Please <a title="tanhongit" target="_blank" href="https://tanhong.bio.link/">see all my social at here 💬</a>.
 
 ## ***📊 GitHub Profile Stats***
 
