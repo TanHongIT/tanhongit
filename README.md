@@ -41,7 +41,7 @@ _(Please click to scroll down)_
                 Frameworks: Laravel, Yii
             </li>
             <li>
-                Cms: Wordpress, Joomla
+                Cms: Wordpress, Joomla, EC-Cube
             </li>
         </ul>
     </ul>
@@ -132,7 +132,7 @@ My primary blog: <a title="tanhongit" target="_blank" href="https://tanhongit.co
   <br>
 
   <p align="center">
-    <a title="tanhongit" href="https://github.com/tanhongit"><img src="https://komarev.com/ghpvc/?username=tanhongit"></a>
+    <a title="tanhongit" href="https://github.com/tanhongit"><img src="https://komarev.com/ghpvc/?username=tanhongit&color=brightgreen"></a>
   </p>
 </details>
 
