@@ -119,17 +119,23 @@ My primary blog: <a title="tanhongit" target="_blank" href="https://tanhongit.co
 <details>
   <summary>⚡ Recent GitHub Activity <i>(Please click to scroll down)</i></summary>
     
-  ### Activity Graph
+### Activity Graph
+<p align="center">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tanhongit&custom_title=tanhongit's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  <br>
+</p>
+<br>
     
-  ### Streak Statistics
+### Streak Statistics
+<p align="center">
   <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tanhongit&theme=radical" data-url="https://github.com/DenverCoder1/github-readme-streak-stats"/>
-  <br>
+</p>
+<br>
   
-  ### Trophy Statistics
-  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=monokai&column=7" />
-  <br>
+### Trophy Statistics
+<p align="center">
+    <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=monokai&column=7" />
+</p>
+<br>
 
   <p align="center">
     <a title="tanhongit" href="https://github.com/tanhongit"><img src="https://komarev.com/ghpvc/?username=tanhongit&color=brightgreen"></a>
