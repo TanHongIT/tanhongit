@@ -1,7 +1,7 @@
 ###  Hi, I’m Tan!
 
 I'm a Full-stack developer and a blog enthusiast, sharing knowledge with others.
-I'm learning every day to become a better version of myself. I'm especially interested in sharing knowledge and love to hear from everyone, not only in technical but everything.
+I'm learning every day to become a better version of myself. I'm especially interested in sharing knowledge and love to hear from everyone in technical and everything.
 
 ## 🛠 Tools & Technologies
 
@@ -24,9 +24,6 @@ _(Please click to scroll down)_
             <li>VueJs</li>
         </ul>
     </ul>
-    <ul>
-        <li>I have a good time with Blogger(Blogspot) when I'm learning at hi school.</li>
-    </ul>
 </details>
 
 <hr>
@@ -41,7 +38,7 @@ _(Please click to scroll down)_
                 Frameworks: Laravel, Yii
             </li>
             <li>
-                Cms: Wordpress, Joomla, EC-Cube
+                Cms: WordPress, Joomla, EC-Cube
             </li>
         </ul>
     </ul>
@@ -72,7 +69,7 @@ _(Please click to scroll down)_
                 Working: Linux - Ubuntu
             </li>
             <li>
-                Gamming: Windows
+                Gaming: Windows
             </li>
         </ul>
         <li>Work management tools: Notion, Slack, Jira, Trello</li>
@@ -101,14 +98,14 @@ _(Please click to scroll down)_
 
 ### ✏️ My Blog
 
-I have created this website with the aim of sharing all knowledge and lessons that I have gone through and reviewing useful software for everyone.
+I have created this website to share all the knowledge and lessons I have gone through and review helpful software for everyone.
 
 My primary blog: <a title="tanhongit" target="_blank" href="https://tanhongit.com"><img height="18px" src="https://tanhongit.com/storage/2020/04/favicon-tanhongit.png"/> Tanhongit.com</a>
 
 (🔭 Old blog: <a title="tanhongit" target="_blank" href="https://tanhongit.net">Tanhongit.net</a>)
 
 <br>
-🌐 Please <a title="tanhongit" target="_blank" href="https://tanhong.bio.link/">see all my social at here 💬</a>.
+👉 Please <a title="tanhongit" target="_blank" href="https://tanhong.bio.link/">see all my social at here 🌐</a>.
 
 ## ***📊 GitHub Profile Stats***
 
@@ -121,7 +118,7 @@ My primary blog: <a title="tanhongit" target="_blank" href="https://tanhongit.co
     
 ### Activity Graph
 <p align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tanhongit&custom_title=tanhongit's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tanhongit&custom_title=tanhongit's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 <br>
     
@@ -133,7 +130,7 @@ My primary blog: <a title="tanhongit" target="_blank" href="https://tanhongit.co
   
 ### Trophy Statistics
 <p align="center">
-    <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=monokai&column=7" />
+    <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=monokai&column=8" />
 </p>
 <br>
 
@@ -141,9 +138,3 @@ My primary blog: <a title="tanhongit" target="_blank" href="https://tanhongit.co
     <a title="tanhongit" href="https://github.com/tanhongit"><img src="https://komarev.com/ghpvc/?username=tanhongit&color=brightgreen"></a>
   </p>
 </details>
-
-<!--
-**TanHongIT/tanhongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://simpleicons.org/
-https://gitmee.netlify.app/
--->
