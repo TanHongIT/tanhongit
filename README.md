@@ -130,7 +130,7 @@ My primary blog: <a title="tanhongit" target="_blank" href="https://tanhongit.co
   
 ### Trophy Statistics
 <p align="center">
-    <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=monokai&column=8" />
+    <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=monokai&column=6" />
 </p>
 <br>
 
