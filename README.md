@@ -100,9 +100,7 @@ _(Please click to scroll down)_
 
 I have created this website to share all the knowledge and lessons I have gone through and review helpful software for everyone.
 
-My primary blog: <a title="tanhongit" target="_blank" href="https://tanhongit.com"><img height="18px" src="https://tanhongit.com/storage/2020/04/favicon-tanhongit.png"/> Tanhongit.com</a>
-
-(🔭 Old blog: <a title="tanhongit" target="_blank" href="https://tanhongit.net">Tanhongit.net</a>)
+My blog: <a title="tanhongit" target="_blank" href="https://tanhongit.com"><img height="18px" src="https://tanhongit.com/wp-content/uploads/2023/09/favicon-tanhongit.png"/> Tanhongit.com</a>
 
 <br>
 👉 Please <a title="tanhongit" target="_blank" href="https://tanhong.bio.link/">see all my social at here 🌐</a>.
