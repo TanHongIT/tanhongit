@@ -1,6 +1,6 @@
 ###  Hi, I’m Tan!
 
-I'm a Full-stack developer and a blog enthusiast, sharing knowledge with others.
+I am a Full Stack developer with nearly 4 years of experience.
 I'm learning every day to become a better version of myself. I'm especially interested in sharing knowledge and love to hear from everyone in technical and everything.
 
 ## 🛠 Tools & Technologies
