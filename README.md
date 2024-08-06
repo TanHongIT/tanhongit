@@ -1,13 +1,12 @@
+###  Hi, I’m Tan!
+
+I am a Full Stack engineer with 4 years of experience.
+I'm learning every day to become a better version of myself. I'm especially interested in sharing knowledge and love to hear from everyone in technical and everything.
 <div align="center">
     <a href="https://tanhongit.com/" target="_blank">
         <img src="https://github-widgetbox.vercel.app/api/profile?username=tanhongit&data=followers,repositories,stars,commits&theme=dark" alt="tanhongit - GitHub WidgetBox" width="90%" height="0%">
     </a>
 </div>
-
-###  Hi, I’m Tan!
-
-I am a Full Stack developer with nearly 4 years of experience.
-I'm learning every day to become a better version of myself. I'm especially interested in sharing knowledge and love to hear from everyone in technical and everything.
 
 ## 🛠 Tools & Technologies
 
@@ -104,11 +103,10 @@ _(Please click to scroll down)_
 
 ### ✏️ My Blog
 
-I have created this website to share all the knowledge and lessons I have gone through and review helpful software for everyone.
+I have created this website to share all the knowledge and lessons I have gone through and review helpful tips for everyone.
 
 My blog: <a title="tanhongit" target="_blank" href="https://tanhongit.com"><img height="18px" src="https://tanhongit.com/wp-content/uploads/2023/09/favicon-tanhongit.png"/> Tanhongit.com</a>
 
-<br>
 👉 Please <a title="tanhongit" target="_blank" href="https://tanhong.bio.link/">see all my social at here 🌐</a>.
 
 ## ***📊 GitHub Profile Stats - Streak Statistics***
