@@ -114,8 +114,8 @@ My blog: <a title="tanhongit" target="_blank" href="https://tanhongit.com"><img 
 ## ***📊 GitHub Profile Stats - Streak Statistics***
 
 <div align="center">
-  <img  alt="tanhongit's github stats" height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanhongit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  <img alt="tanhongit's Streak star" src="https://github-readme-streak-stats.herokuapp.com/?user=tanhongit&theme=radical" data-url="https://github.com/DenverCoder1/github-readme-streak-stats"/>
+  <img  alt="tanhongit's github stats" width="49%" height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanhongit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img alt="tanhongit's Streak star" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanhongit&theme=radical" data-url="https://github.com/DenverCoder1/github-readme-streak-stats"/>
 </div>
 
 <details>
