@@ -1,3 +1,9 @@
+<div>
+<a href="https://tanhongit.com/" target="_blank">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=tanhongit&data=followers,repositories,stars,commits&theme=dark" alt="tanhongit - GitHub WidgetBox" width="90%" height="0%">
+</a>
+</div>
+
 ###  Hi, I’m Tan!
 
 I am a Full Stack developer with nearly 4 years of experience.
@@ -105,11 +111,12 @@ My blog: <a title="tanhongit" target="_blank" href="https://tanhongit.com"><img 
 <br>
 👉 Please <a title="tanhongit" target="_blank" href="https://tanhong.bio.link/">see all my social at here 🌐</a>.
 
-## ***📊 GitHub Profile Stats***
+## ***📊 GitHub Profile Stats - Streak Statistics***
 
-<p align="center">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanhongit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-</p>
+<div align="center">
+  <img  alt="tanhongit's github stats" height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanhongit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img alt="tanhongit's Streak star" src="https://github-readme-streak-stats.herokuapp.com/?user=tanhongit&theme=radical" data-url="https://github.com/DenverCoder1/github-readme-streak-stats"/>
+</div>
 
 <details>
   <summary>⚡ Recent GitHub Activity <i>(Please click to scroll down)</i></summary>
@@ -119,16 +126,10 @@ My blog: <a title="tanhongit" target="_blank" href="https://tanhongit.com"><img 
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tanhongit&custom_title=tanhongit's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 <br>
-    
-### Streak Statistics
-<p align="center">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tanhongit&theme=radical" data-url="https://github.com/DenverCoder1/github-readme-streak-stats"/>
-</p>
-<br>
   
 ### Trophy Statistics
 <p align="center">
-    <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=monokai&column=6" />
+    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=monokai&column=5" alt="tanhongit's github Trophy" />
 </p>
 <br>
 
