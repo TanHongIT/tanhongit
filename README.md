@@ -105,9 +105,19 @@ _(Please click to scroll down)_
 
 I have created this website to share all the knowledge and lessons I have gone through and review helpful tips for everyone.
 
-My blog: <a title="tanhongit" target="_blank" href="https://tanhongit.com"><img height="18px" src="https://tanhongit.com/wp-content/uploads/2023/09/favicon-tanhongit.png"/> Tanhongit.com</a>
+My blog URL: <a title="tanhongit" target="_blank" href="https://tanhongit.com"><img height="18px" src="https://tanhongit.com/wp-content/uploads/2023/09/favicon-tanhongit.png"/> Tanhongit.com</a>
 
 👉 Please <a title="tanhongit" target="_blank" href="https://tanhong.bio.link/">see all my social at here 🌐</a>.
+
+============================
+
+###  Organizations
+
+The **CSlant organization** is an organization that develops tools, products, and services to help you grow your business.
+
+Homepage: <a title="CSlant" target="_blank" href="https://cslant.com"><img height="18px" src="https://avatars.githubusercontent.com/u/155535010?s=200&v=4"/> cslant.com</a>
+
+**Also, we can help you with your business, please contact us at the following email address: <a title="CSlant" target="_blank" href="mailto:contact@cslant.com">contact@cslant.com</a>**
 
 ## ***📊 GitHub Profile Stats - Streak Statistics***
 
@@ -118,16 +128,16 @@ My blog: <a title="tanhongit" target="_blank" href="https://tanhongit.com"><img 
 <br>
 
 <details open>
-  <summary><strong>⚡ Recent GitHub Activity</strong> <i>(Please click to scroll down)</i></summary>
-    
+  <summary><strong>⚡ Other recent GitHub Activity</strong> <i>(Please click to collapse or expand)</i></summary>
+
 ### Activity Graph
 <p align="center">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tanhongit&custom_title=tanhongit's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
-  
+
 ### Trophy Statistics
 <p align="center">
-    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=monokai&column=5" alt="tanhongit's github Trophy" />
+    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=tanhongit&theme=monokai&column=5" alt="tanhongit's GitHub Trophy" />
 </p>
 <br>
 
