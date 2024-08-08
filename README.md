@@ -1,4 +1,4 @@
-###  Hi, I’m Tan!
+##  Hi, I’m Tan!
 
 I am a Full Stack engineer with 4 years of experience.
 I'm learning every day to become a better version of myself. I'm especially interested in sharing knowledge and love to hear from everyone in technical and everything.
@@ -8,99 +8,8 @@ I'm learning every day to become a better version of myself. I'm especially inte
     </a>
 </div>
 
-## 🛠 Tools & Technologies
-
-_(Please click to scroll down)_
-
-<details>
-    <summary><b>Frontend</b></summary>
-    <p></p>
-    <ul>
-        <li>HTML, CSS</li>
-        <ul>
-            <li>SCSS/SASS, LESS</li>
-            <li>Bootstrap, Tailwind</li>
-        </ul>
-    </ul>
-    <ul>
-        <li>JavaScript</li>
-        <ul>
-            <li>Jquery</li>
-            <li>VueJs</li>
-        </ul>
-    </ul>
-</details>
-
-<hr>
-
-<details>
-    <summary><b>Backend</b></summary>
-    <p></p>
-    <ul>
-        <li>PHP</li>
-        <ul>
-            <li>
-                Frameworks: Laravel, Yii
-            </li>
-            <li>
-                Cms: WordPress, Joomla, EC-Cube
-            </li>
-        </ul>
-    </ul>
-    <ul>
-        <li>Databases
-        <ul>
-            <li>
-                MySQL, MariaDB
-            </li>
-            <li>Redis
-            </li>
-        </ul>
-        </li>
-    </ul>
-</details>
-
-<hr>
-
-<details>
-    <summary><b>Others</b></summary>
-    <p></p>
-    <ul>
-        <li>IDE: PhpStorm, IntelliJ</li>
-        <li>Text Editor: Visual Studio Code, Atom, Nano, Vim</li>
-        <li>OS:</li>
-        <ul>
-            <li>
-                Working: Linux - Ubuntu
-            </li>
-            <li>
-                Gaming: Windows
-            </li>
-        </ul>
-        <li>Work management tools: Notion, Slack, Jira, Trello</li>
-        <li>Tools:</li>
-        <ul>
-            <li>
-                Docker, Vagrant, Homestead, cPanel, XAMPP, WAMP
-            </li>
-            <li>
-                Apache, NGINX
-            </li>
-            <li>
-                Git/Github, Gitlab, Composer
-            </li>
-        </ul>
-    </ul>
-</details>
-
-### ✨ Interested - Learning Plans
-
-![Next.js](https://img.shields.io/badge/Next.js-001a33?style=flat&logo=Next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-001a33?style=flat&logo=Node.js)&nbsp;
-![Python](https://img.shields.io/badge/Python-001a33?style=flat&logo=Python)&nbsp;
-
 <div align="center"> 
-   <h1> 💻 Tech Stack </h1>
+   <h2> 💻 Tech Stack </h2>
 </div>
 
 <div align="center"> 
@@ -151,6 +60,7 @@ Homepage: <a title="CSlant" target="_blank" href="https://cslant.com"><img heigh
 </div>
 <br>
 
+<div align="center">
 <details open>
   <summary><strong>⚡ Other recent GitHub Activity</strong> <i>(Please click to collapse or expand)</i></summary>
 
@@ -169,4 +79,6 @@ Homepage: <a title="CSlant" target="_blank" href="https://cslant.com"><img heigh
   <a title="tanhongit" href="https://github.com/tanhongit"><img src="https://komarev.com/ghpvc/?username=tanhongit&color=brightgreen" alt="tanhongit's Trophy Statistics"></a>
 </p>
 </details>
+<div align="center">
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=FF8C9E" alt="tanhongit's profile views"/>
