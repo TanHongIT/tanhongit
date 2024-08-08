@@ -99,13 +99,14 @@ _(Please click to scroll down)_
 ![Node.js](https://img.shields.io/badge/Node.js-001a33?style=flat&logo=Node.js)&nbsp;
 ![Python](https://img.shields.io/badge/Python-001a33?style=flat&logo=Python)&nbsp;
 
-
-<details open>
-    <summary><b>Frontend</b></summary>
-
 <div align="center"> 
    <h1> 💻 Tech Stack </h1>
 </div>
+
+<div align="center"> 
+<details open>
+    <summary><b>🛠️ Programming Languages  (Click to expand or collapse)</b></summary>
+    <p></p>
 
 |                                                                                                                                                                                                                                                                                                                                                                                                         📋 Languages                                                                                                                                                                                                                                                                                                                                                                                                          |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -120,6 +121,7 @@ _(Please click to scroll down)_
 |                                                                                                                                                                                             ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)                                                                                                                                                                                             |
 
 </details>
+</div>
 
 ## ☎ Contact me
 
