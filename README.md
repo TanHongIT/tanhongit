@@ -32,8 +32,10 @@ I'm learning every day to become a better version of myself. I'm especially inte
 </details>
 </div>
 
+---
+
 <div align="center">
-<details open>
+<details>
     <summary><b>🛠️ Tools & Management  (Click to expand or collapse)</b></summary>
     <p></p>
 
