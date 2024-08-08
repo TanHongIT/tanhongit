@@ -111,7 +111,7 @@ My blog URL: <a title="tanhongit" target="_blank" href="https://tanhongit.com"><
 
 ============================
 
-###  Organizations
+### 🏢 Organizations
 
 The **CSlant organization** is an organization that develops tools, products, and services to help you grow your business.
 
