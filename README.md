@@ -54,6 +54,17 @@ I'm learning every day to become a better version of myself. I'm especially inte
 </details>
 </div>
 
+<p align="center"> 
+  <a style="text-decoration:none" href="https://leetcode.com/ngocmytrg/">
+    <img style="width:60%" src="https://leetcard.jacoblin.cool/tanhongit?theme=nord&font=Ubuntu&ext=contest"/>
+  </a>
+</p> 
+
+<div align="center">
+  <a href="https://www.leetcode.com/tanhongit"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="tanhongit LeetCode"></a>
+  <a href="https://www.linkedin.com/in/tanhongit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
 ## ☎ Contact me
 
 ### ✏️ My Blog
