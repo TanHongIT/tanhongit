@@ -4,7 +4,7 @@ I am a Full Stack engineer with 4 years of experience.
 I'm learning every day to become a better version of myself. I'm especially interested in sharing knowledge and love to hear from everyone in technical and everything.
 <div align="center">
     <a href="https://tanhongit.com/" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=tanhongit&data=followers,repositories,stars,commits&theme=dark" alt="tanhongit's - GitHub Widgetbox" width="90%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=tanhongit&data=followers,repositories,stars,commits&theme=light" alt="tanhongit's - GitHub Widgetbox" width="90%" height="0%">
     </a>
 </div>
 
@@ -37,7 +37,7 @@ I'm learning every day to become a better version of myself. I'm especially inte
 
 <div align="center">
 <h3>🛠️ Tools & Management</h3>
-<details>
+<details open>
     <summary>(Click to expand or collapse)</summary>
     <p></p>
 
