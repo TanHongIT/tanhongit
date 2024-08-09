@@ -103,4 +103,4 @@ Homepage: <a title="CSlant" target="_blank" href="https://cslant.com"><img heigh
 </details>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=FF8C9E" alt="tanhongit's profile views"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient" alt="tanhongit's profile views"/>
