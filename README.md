@@ -115,11 +115,3 @@ Homepage: <a title="CSlant" target="_blank" href="https://cslant.com"><img heigh
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient" alt="tanhongit's profile views"/>
-
-
-
-
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
