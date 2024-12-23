@@ -89,7 +89,7 @@ Homepage: <a title="CSlant" target="_blank" href="https://cslant.com"><img heigh
 
 <div align="center">
   <img  alt="tanhongit's github stats" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanhongit&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  <img alt="tanhongit's Streak star" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanhongit&theme=radical" data-url="https://github.com/DenverCoder1/github-readme-streak-stats"/>
+<!--   <img alt="tanhongit's Streak star" width="49%" src="/?user=tanhongit&theme=radical" data-url="https://github.com/DenverCoder1/github-readme-streak-stats"/> -->
 </div>
 <br>
 
@@ -115,3 +115,11 @@ Homepage: <a title="CSlant" target="_blank" href="https://cslant.com"><img heigh
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient" alt="tanhongit's profile views"/>
+
+
+
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
